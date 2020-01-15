@@ -20,7 +20,7 @@ Send a pull request and we will add it if we deem it fine and within the contrib
 
 ## Authors
 
-* ** andalike * - *Initial work* - (https://github.com/andalike)
+* ** andalike * - (https://github.com/andalike)
 
 
 ## License
